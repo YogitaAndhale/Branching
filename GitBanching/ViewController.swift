@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hey there")
         print("Added new feature")
+        print("checkout from remote yayy zal")
+
         // Do any additional setup after loading the view.
     }
 
